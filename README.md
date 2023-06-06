@@ -31,7 +31,7 @@
 ## Enrolment Single Sign-On
 
 ## Physical Access
-
+* [](https://www.jamf.com/blog/jamf-modern-workplace-employee-id-in-apple-wallet/)
 ## Improving Experiences
 ### Declarative Device Management
 ### Secure Local Password Management
