@@ -42,7 +42,7 @@
 * [Matteo Bolognini’s Slack App](https://skartek.dev/2023/05/03/jamf-pro-laps/)
 
 ### Jamf Professional Services Update
-
+* [Jamf Professional Services EMEIA Scoping Call](https://calendly.com/jamf-emeia/jamf-service-emeia-scopingcall)
 ## What Comes Next?
 ### Software Update Enhancements
 ### Managed Device Attestation
