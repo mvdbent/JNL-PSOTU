@@ -21,6 +21,8 @@
 *Laurent Pertois - Senior Professional Services Engineer*
 
 ## Amazon EC2 Mac and Jamf
+[Automate the Enrollment of EC2 Mac Instances into Jamf Pro](https://aws.amazon.com/blogs/apn/automate-the-enrollment-of-ec2-mac-instances-into-jamf-pro/) 
+[](https://aws.amazon.com/blogs/apn/automate-the-enrollment-of-ec2-mac-instances-into-jamf-pro/)
 
 ## Google BeyondCorp
 
